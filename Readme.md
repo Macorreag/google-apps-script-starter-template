@@ -1,5 +1,9 @@
 # Google Apps Script Starter Template with clasp
 
+> **Canonical template:** This is the canonical template of the Google Apps Script publishing ecosystem — start new projects with the **"Use this template"** button.
+>
+> **Plantilla canónica:** Esta es la plantilla canónica del ecosistema de publicaciones de Google Apps Script — crea proyectos nuevos con el botón **"Use this template"**.
+
 [![clasp](https://img.shields.io/badge/built%20with-clasp-4285f4.svg)](https://github.com/google/clasp)
 
 ## About
